@@ -1,7 +1,7 @@
 import requests
 
 # --- API Key ---
-api_key = "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"
+api_key = "KEY"
 
 # --- User Input ---
 bpm = input("Enter your heart rate (BPM): ")
